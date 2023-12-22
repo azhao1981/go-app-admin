@@ -2,8 +2,7 @@
 
 使用 [go-app](https://go-app.dev/) 做为go前端框架的 H5 手机端 admin 项目
 
-## build & run
-## build & run
+## dev
 
 ```bash
 # dependents
@@ -12,11 +11,12 @@ go mod tidy
 go get "github.com/maxence-charriere/go-app/v9/pkg/app"
 ```
 
+## build & run
+
 ```bash
 make build
 make run
 ```
-
 
 ## ref
 
